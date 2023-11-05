@@ -4,8 +4,8 @@ github.com/Microsoft/go-winio v0.6.1 h1:9/kr64B9VUZrLm5YYwbGtUJnMgqWVOdUAXu6Migc
 github.com/Microsoft/go-winio v0.6.1/go.mod h1:LRdKpFKfdobln8UmuiYcKPot9D2v6svN5+sAH+4kjUM=
 github.com/StackExchange/wmi v1.2.1 h1:VIkavFPXSjcnS+O8yTq7NI32k0R5Aj+v39y29VYDOSA=
 github.com/StackExchange/wmi v1.2.1/go.mod h1:rcmrprowKIVzvc+NUiLncP2uuArMWLCbu9SBzvHz7e8=
-github.com/Taoist-Labs/sns-go-api v0.1.1 h1:cPGvu9ctw6tNbX4bUQbwMPlbMN6PyciHfuhfiKUXa/k=
-github.com/Taoist-Labs/sns-go-api v0.1.1/go.mod h1:kz8hMJDMqRRVZV9fIUxp4GVSE5/uVXkvSjbh0JV5PVY=
+github.com/Taoist-Labs/sns-go-api v0.5.0 h1:Cgedgft6gGGlNKowm70dIOOOT0omROnChsLmpX4Qs4w=
+github.com/Taoist-Labs/sns-go-api v0.5.0/go.mod h1:kz8hMJDMqRRVZV9fIUxp4GVSE5/uVXkvSjbh0JV5PVY=
 github.com/Taoist-Labs/sns-go-namehash v0.1.0 h1:5a1PKB7pAtBhb0o64pwrV+enHEfVm7AgipXzy8B59U4=
 github.com/Taoist-Labs/sns-go-namehash v0.1.0/go.mod h1:53v+oKUyKhjZAoASElIc65Y07GVAct80mczBycJoqzA=
 github.com/VictoriaMetrics/fastcache v1.12.1 h1:i0mICQuojGDL3KblA7wUNlY5lOK6a4bwt3uRKnkZU40=
