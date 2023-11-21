@@ -2,7 +2,7 @@ module github.com/Taoist-Labs/sns-go-safe
 
 go 1.21
 
-require github.com/Taoist-Labs/sns-go-api v0.5.0
+require github.com/Taoist-Labs/sns-go-api v0.5.1
 
 require (
 	github.com/Microsoft/go-winio v0.6.1 // indirect
